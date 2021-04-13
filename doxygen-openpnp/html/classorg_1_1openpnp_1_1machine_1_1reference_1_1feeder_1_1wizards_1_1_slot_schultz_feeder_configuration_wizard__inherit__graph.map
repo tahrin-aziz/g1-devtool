@@ -1,6 +1,0 @@
-<map id="org.openpnp.machine.reference.feeder.wizards.SlotSchultzFeederConfigurationWizard" name="org.openpnp.machine.reference.feeder.wizards.SlotSchultzFeederConfigurationWizard">
-<area shape="rect" id="node1" title=" " alt="" coords="5,184,300,225"/>
-<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="59,95,246,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="54,13,115,39"/>
-<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="139,5,305,47"/>
-</map>

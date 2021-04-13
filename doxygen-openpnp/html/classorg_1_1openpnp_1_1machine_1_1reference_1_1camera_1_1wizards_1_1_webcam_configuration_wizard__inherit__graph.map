@@ -1,7 +1,0 @@
-<map id="org.openpnp.machine.reference.camera.wizards.WebcamConfigurationWizard" name="org.openpnp.machine.reference.camera.wizards.WebcamConfigurationWizard">
-<area shape="rect" id="node1" title=" " alt="" coords="55,184,358,225"/>
-<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="11,95,197,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,13,67,39"/>
-<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="91,5,256,47"/>
-<area shape="rect" id="node5" title=" " alt="" coords="221,102,397,129"/>
-</map>

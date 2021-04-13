@@ -1,7 +1,0 @@
-<map id="org.openpnp.machine.reference.axis.wizards.ReferenceLinearTransformAxisConfigurationWizard" name="org.openpnp.machine.reference.axis.wizards.ReferenceLinearTransformAxisConfigurationWizard">
-<area shape="rect" id="node1" title=" " alt="" coords="5,273,320,315"/>
-<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1axis_1_1wizards_1_1_abstract_axis_configuration_wizard.html" title=" " alt="" coords="21,184,304,225"/>
-<area shape="rect" id="node3" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="69,95,256,136"/>
-<area shape="rect" id="node4" title=" " alt="" coords="64,13,125,39"/>
-<area shape="rect" id="node5" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="149,5,315,47"/>
-</map>
