@@ -1,0 +1,9 @@
+<map id="org.openpnp.spi.JobProcessor" name="org.openpnp.spi.JobProcessor">
+<area shape="rect" id="node1" title=" " alt="" coords="122,95,319,121"/>
+<area shape="rect" id="node4" href="$classorg_1_1openpnp_1_1spi_1_1base_1_1_abstract_job_processor.html" title=" " alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node7" href="$interfaceorg_1_1openpnp_1_1spi_1_1_pnp_job_processor.html" title=" " alt="" coords="228,177,448,203"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="27,5,193,47"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1openpnp_1_1spi_1_1_wizard_configurable.html" title=" " alt="" coords="217,13,448,39"/>
+<area shape="rect" id="node5" href="$classorg_1_1openpnp_1_1spi_1_1base_1_1_abstract_pnp_job_processor.html" title=" " alt="" coords="121,259,320,300"/>
+<area shape="rect" id="node6" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1_reference_pnp_job_processor.html" title=" " alt="" coords="117,348,324,389"/>
+</map>

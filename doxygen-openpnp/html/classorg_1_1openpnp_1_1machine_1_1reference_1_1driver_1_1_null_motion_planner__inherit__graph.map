@@ -1,0 +1,8 @@
+<map id="org.openpnp.machine.reference.driver.NullMotionPlanner" name="org.openpnp.machine.reference.driver.NullMotionPlanner">
+<area shape="rect" id="node1" title=" " alt="" coords="787,64,1028,105"/>
+<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1driver_1_1_abstract_motion_planner.html" title=" " alt="" coords="497,64,739,105"/>
+<area shape="rect" id="node3" href="$classorg_1_1openpnp_1_1model_1_1_abstract_model_object.html" title=" " alt="" coords="256,5,441,47"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1spi_1_1_motion_planner.html" title=" " alt="" coords="248,122,449,149"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="19,64,186,105"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1openpnp_1_1model_1_1_solutions_1_1_subject.html" title=" " alt="" coords="5,129,200,171"/>
+</map>

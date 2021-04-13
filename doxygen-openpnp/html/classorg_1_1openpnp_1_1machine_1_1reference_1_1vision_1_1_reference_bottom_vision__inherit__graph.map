@@ -1,0 +1,7 @@
+<map id="org.openpnp.machine.reference.vision.ReferenceBottomVision" name="org.openpnp.machine.reference.vision.ReferenceBottomVision">
+<area shape="rect" id="node1" title=" " alt="" coords="499,49,741,90"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1openpnp_1_1spi_1_1_part_alignment.html" title=" " alt="" coords="251,56,451,83"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1openpnp_1_1model_1_1_identifiable.html" title=" " alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1model_1_1_named.html" title=" " alt="" coords="15,56,193,83"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="21,107,187,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="org.openpnp.machine.reference.signaler.wizards.ActuatorSignalerConfigurationWizard" name="org.openpnp.machine.reference.signaler.wizards.ActuatorSignalerConfigurationWizard">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,309,225"/>
+<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="64,95,251,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,13,120,39"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="144,5,309,47"/>
+</map>

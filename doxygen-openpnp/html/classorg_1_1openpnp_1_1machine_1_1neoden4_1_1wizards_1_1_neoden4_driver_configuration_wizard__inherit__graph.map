@@ -1,0 +1,6 @@
+<map id="org.openpnp.machine.neoden4.wizards.Neoden4DriverConfigurationWizard" name="org.openpnp.machine.neoden4.wizards.Neoden4DriverConfigurationWizard">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,256,225"/>
+<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="37,95,224,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="32,13,93,39"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="117,5,283,47"/>
+</map>

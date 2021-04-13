@@ -1,0 +1,9 @@
+<map id="org.openpnp.spi.Signaler" name="org.openpnp.spi.Signaler">
+<area shape="rect" id="node1" title=" " alt="" coords="251,56,416,83"/>
+<area shape="rect" id="node5" href="$classorg_1_1openpnp_1_1spi_1_1base_1_1_abstract_signaler.html" title=" " alt="" coords="464,49,663,90"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1openpnp_1_1model_1_1_identifiable.html" title=" " alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node3" href="$interfaceorg_1_1openpnp_1_1model_1_1_named.html" title=" " alt="" coords="15,56,193,83"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="21,107,187,149"/>
+<area shape="rect" id="node6" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1signaler_1_1_actuator_signaler.html" title=" " alt="" coords="711,15,967,57"/>
+<area shape="rect" id="node7" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1signaler_1_1_sound_signaler.html" title=" " alt="" coords="711,81,967,122"/>
+</map>

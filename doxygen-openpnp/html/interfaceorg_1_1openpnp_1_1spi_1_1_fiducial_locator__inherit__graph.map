@@ -1,0 +1,5 @@
+<map id="org.openpnp.spi.FiducialLocator" name="org.openpnp.spi.FiducialLocator">
+<area shape="rect" id="node1" title=" " alt="" coords="45,95,208,136"/>
+<area shape="rect" id="node3" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1vision_1_1_reference_fiducial_locator.html" title=" " alt="" coords="5,184,248,225"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="43,5,210,47"/>
+</map>

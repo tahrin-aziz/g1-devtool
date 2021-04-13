@@ -1,0 +1,6 @@
+<map id="org.openpnp.gui.components.reticle.CrosshairReticle" name="org.openpnp.gui.components.reticle.CrosshairReticle">
+<area shape="rect" id="node1" title=" " alt="" coords="285,39,517,80"/>
+<area shape="rect" id="node3" href="$classorg_1_1openpnp_1_1gui_1_1components_1_1reticle_1_1_fiducial_reticle.html" title=" " alt="" coords="565,5,797,47"/>
+<area shape="rect" id="node4" href="$classorg_1_1openpnp_1_1gui_1_1components_1_1reticle_1_1_ruler_reticle.html" title=" " alt="" coords="565,71,797,112"/>
+<area shape="rect" id="node2" href="$interfaceorg_1_1openpnp_1_1gui_1_1components_1_1reticle_1_1_reticle.html" title=" " alt="" coords="5,39,237,80"/>
+</map>

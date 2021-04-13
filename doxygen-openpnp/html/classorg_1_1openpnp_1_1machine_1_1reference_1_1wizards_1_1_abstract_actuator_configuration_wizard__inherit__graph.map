@@ -1,0 +1,9 @@
+<map id="org.openpnp.machine.reference.wizards.AbstractActuatorConfigurationWizard" name="org.openpnp.machine.reference.wizards.AbstractActuatorConfigurationWizard">
+<area shape="rect" id="node1" title=" " alt="" coords="453,71,708,112"/>
+<area shape="rect" id="node5" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1wizards_1_1_http_actuator_configuration_wizard.html" title=" " alt="" coords="756,5,1011,47"/>
+<area shape="rect" id="node6" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1wizards_1_1_reference_actuator_configuration_wizard.html" title=" " alt="" coords="756,71,1011,112"/>
+<area shape="rect" id="node7" href="$classorg_1_1openpnp_1_1machine_1_1reference_1_1wizards_1_1_script_actuator_configuration_wizard.html" title=" " alt="" coords="756,136,1011,177"/>
+<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1gui_1_1support_1_1_abstract_configuration_wizard.html" title=" " alt="" coords="219,71,405,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,49,119,75"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1gui_1_1support_1_1_wizard.html" title=" " alt="" coords="5,100,171,141"/>
+</map>

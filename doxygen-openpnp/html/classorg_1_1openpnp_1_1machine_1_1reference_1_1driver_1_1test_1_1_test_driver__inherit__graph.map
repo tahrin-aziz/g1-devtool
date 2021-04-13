@@ -1,0 +1,12 @@
+<map id="org.openpnp.machine.reference.driver.test.TestDriver" name="org.openpnp.machine.reference.driver.test.TestDriver">
+<area shape="rect" id="node1" title=" " alt="" coords="764,95,1031,137"/>
+<area shape="rect" id="node2" href="$classorg_1_1openpnp_1_1spi_1_1base_1_1_abstract_driver.html" title=" " alt="" coords="517,66,716,107"/>
+<area shape="rect" id="node3" href="$classorg_1_1openpnp_1_1model_1_1_abstract_model_object.html" title=" " alt="" coords="284,66,469,107"/>
+<area shape="rect" id="node4" href="$interfaceorg_1_1openpnp_1_1spi_1_1_driver.html" title=" " alt="" coords="301,132,452,159"/>
+<area shape="rect" id="node5" href="$interfaceorg_1_1openpnp_1_1model_1_1_identifiable.html" title=" " alt="" coords="22,5,219,32"/>
+<area shape="rect" id="node6" href="$interfaceorg_1_1openpnp_1_1model_1_1_named.html" title=" " alt="" coords="32,56,209,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="81,107,160,133"/>
+<area shape="rect" id="node8" href="$interfaceorg_1_1openpnp_1_1spi_1_1_wizard_configurable.html" title=" " alt="" coords="5,157,236,184"/>
+<area shape="rect" id="node9" href="$interfaceorg_1_1openpnp_1_1spi_1_1_property_sheet_holder.html" title=" " alt="" coords="37,209,204,250"/>
+<area shape="rect" id="node10" href="$interfaceorg_1_1openpnp_1_1model_1_1_solutions_1_1_subject.html" title=" " alt="" coords="23,274,218,315"/>
+</map>
